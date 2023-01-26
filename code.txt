@@ -1,0 +1,143 @@
+<div class="container">
+      <div class="d-flex justify-content-center align-items-center" style="height: 100vh;">
+        <div class="text-center">
+          <img
+            class="mb-4"
+            src="https://mdbootstrap.com/img/logo/mdb-transparent-250px.png"
+            style="width: 250px; height: 90px;"
+          />
+          <h5 class="mb-3">Thank you for using our product. We're glad you're with us.</h5>
+          <p class="mb-3">MDB Team</p>
+          <a
+            class="btn btn-primary btn-lg"
+            href="https://mdbootstrap.com/docs/standard/getting-started/"
+            target="_blank"
+            role="button"
+            >Start MDB tutorial</a
+          >
+        </div>
+      </div>
+    </div>
+
+
+
+    <hr class="my-5" />
+
+            <!--Section: Design Block-->
+            <section class="text-center">
+              <h3 class="mb-5">My amazing team</h3>
+
+              <p class="mb-5 mx-auto w-responsive">
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum laborum animi doloremque
+                nam dicta veniam dolor ea nostrum excepturi laboriosam molestiae, expedita odit id! Sunt
+                quia cumque consequatur perferendis hic.
+              </p>
+
+              <div class="row">
+                <div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
+                  <img class="rounded-circle shadow-1-strong mb-4"
+                       src="https://mdbootstrap.com/img/Photos/Avatars/img%20(25).jpg" alt="avatar" style="width: 150px;" />
+                  <h5 class="mb-3" style="color: #112f6b;">Anna Deynah</h5>
+                  <p>Graphic designer</p>
+                  <ul class="list-unstyled mb-0">
+                    <a href="#!" class="px-1">
+                      <i class="text-danger px-2 fa-lg fab fa-github"></i>
+                    </a>
+                    <a href="#!" class="px-1">
+                      <i class="text-danger px-2 fa-lg fab fa-twitter"></i>
+                    </a>
+                    <a href="#!" class="px-1">
+                      <i class="text-danger px-2 fa-lg fab fa-linkedin-in"></i>
+                    </a>
+                  </ul>
+                </div>
+                <div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
+                  <img class="rounded-circle shadow-1-strong mb-4"
+                       src="https://mdbootstrap.com/img/Photos/Avatars/img%20(9).jpg" alt="avatar" style="width: 150px;" />
+                  <h5 class="mb-3" style="color: #112f6b;">John Doe</h5>
+                  <p>Web developer</p>
+                  <ul class="list-unstyled mb-0">
+                    <a href="#!" class="px-1">
+                      <i class="text-danger px-2 fa-lg fab fa-github"></i>
+                    </a>
+                    <a href="#!" class="px-1">
+                      <i class="text-danger px-2 fa-lg fab fa-twitter"></i>
+                    </a>
+                    <a href="#!" class="px-1">
+                      <i class="text-danger px-2 fa-lg fab fa-linkedin-in"></i>
+                    </a>
+                  </ul>
+                </div>
+                <div class="col-md-6 col-lg-3 mb-4 mb-md-0">
+                  <img class="rounded-circle shadow-1-strong mb-4"
+                       src="https://mdbootstrap.com/img/Photos/Avatars/img%20(5).jpg" alt="avatar" style="width: 150px;" />
+                  <h5 class="mb-3" style="color: #112f6b;">Maria Smith</h5>
+                  <p>Photographer</p>
+                  <ul class="list-unstyled mb-0">
+                    <a href="#!" class="px-1">
+                      <i class="text-danger px-2 fa-lg fab fa-facebook-f"></i>
+                    </a>
+                    <a href="#!" class="px-1">
+                      <i class="text-danger px-2 fa-lg fab fa-twitter"></i>
+                    </a>
+                    <a href="#!" class="px-1">
+                      <i class="text-danger px-2 fa-lg fab fa-linkedin-in"></i>
+                    </a>
+                  </ul>
+                </div>
+                <div class="col-md-6 col-lg-3 mb-0">
+                  <img class="rounded-circle shadow-1-strong mb-4"
+                       src="https://mdbootstrap.com/img/Photos/Avatars/img%20(8).jpg" alt="avatar" style="width: 150px;" />
+                  <h5 class="mb-3" style="color: #112f6b;">Tom Adams</h5>
+                  <p>Backend developer</p>
+                  <ul class="list-unstyled mb-0">
+                    <a href="#!" class="px-1">
+                      <i class="text-danger px-2 fa-lg fab fa-dribbble"></i>
+                    </a>
+                    <a href="#!" class="px-1">
+                      <i class="text-danger px-2 fa-lg fab fa-linkedin-in"></i>
+                    </a>
+                    <a href="#!" class="px-1">
+                      <i class="text-danger px-2 fa-lg fab fa-instagram"></i>
+                    </a>
+                  </ul>
+                </div>
+              </div>
+            </section>
+            <!--Section: Design Block-->
+
+
+
+    <!--Section: Design Block-->
+        <section>
+            <div id="intro" class="bg-image" style="
+              background-image: url('https://mdbootstrap.com/img/Photos/Others/images/62.jpg');
+              height: 100vh;
+            ">
+                <div class="mask">
+                    <div class="container d-flex justify-content-center align-items-center h-100">
+                        <div class="row align-items-center">
+                            <div class="col-md-6 my-5">
+                                <h1 class="mb-5" style="color: #112f6b;">Creative agency</h1>
+                                <p class="lead mb-5">
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem repellendus quasi
+                                    fuga nesciunt dolorum nulla magnam veniam sapiente, fugiat! Commodi sequi non
+                                    animi ea dolor molestiae iste.
+                                </p>
+                                <button type="button" class="btn btn-light btn-rounded btn-lg me-1">
+                                    Portfolio
+                                </button>
+                                <button type="button" class="btn btn-danger btn-rounded btn-lg ms-1">
+                                    Learn more
+                                </button>
+                            </div>
+                            <div class="col-md-6">
+                                <img src="https://mdbootstrap.com/img/Mockups/Transparent/Small/admin-new.png" alt=""
+                                     class="img-fluid" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Section: Design Block-->
